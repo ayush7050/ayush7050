@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development and app development.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on web development and app development.
-- 📫 you can reach me by my mail bs9882074@gmail.com .
+- 📫 You can reach me by my mail bs9882074@gmail.com .
